@@ -5,7 +5,7 @@ const DAYS = [
   {
     week: 1, index: 1, tag: "intro", title: "Introduction to HTML",
     project: "Your first webpage",
-    theory: ["How the internet works: client vs. server", "Browsers, websites, domains & hosting", "What HTML is, and a short history of its versions", "Installing VS Code + Live Server"],
+    theory: ["How the internet works: client vs. server", "Browsers, websites, domains & hosting", "What HTML is, and a short history of its versions"],
     lab: ["Build a personal “Hello World” page", "Break down <!DOCTYPE html>, <html>, <head>, <body>"],
     homework: ["Build an “About Me” page"]
   },
