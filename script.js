@@ -168,8 +168,8 @@ const weekSub = document.getElementById("weekSub");
 const openedDays = new Set();
 
 const WEEK_META = {
-  1: { title: "Week 1 — HTML Fundamentals", sub: "Structure, text, media, and layout — the vocabulary you'll use every day after this." },
-  2: { title: "Week 2 — Intermediate & Advanced HTML", sub: "Forms, multimedia, semantics, graphics and browser APIs — then the capstone." }
+  1: { title: "Week 1 — HTML Fundamentals", sub: "Structure, text, media, and layout the vocabulary you'll use every day after this." },
+  2: { title: "Week 2 — Intermediate & Advanced HTML", sub: "Forms, multimedia, semantics, graphics and browser APIs then the capstone." }
 };
 
 function renderWeek(week){
